@@ -15,3 +15,4 @@ entekhab shode ke bayad hokm konad . sepas bazi aghaz mishavad .
 * va hatman bayad tahte CMD run shavad 
 * dar surate run kardan dar linux ya dar python shell
 * barname be dorosti kar nakhahad kard
+--------------------------------------------------------------------
